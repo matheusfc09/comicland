@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/80/htdocs/comicland
+END
+change_roles.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/80/htdocs/comicland/change_roles.php
+END
+error.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/80/htdocs/comicland/error.php
+END
+comic.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/82/htdocs/comicland/comic.php
+END
+character.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/80/htdocs/comicland/character.php
+END
+edit_comic.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/80/htdocs/comicland/edit_comic.php
+END
+create_user.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/80/htdocs/comicland/create_user.php
+END
+edit_character.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/80/htdocs/comicland/edit_character.php
+END
+new_comic.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/80/htdocs/comicland/new_comic.php
+END
+signup.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/80/htdocs/comicland/signup.php
+END
+rate_comic.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/80/htdocs/comicland/rate_comic.php
+END
+new_character.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/80/htdocs/comicland/new_character.php
+END
+handle_comic.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/80/htdocs/comicland/handle_comic.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/80/htdocs/comicland/index.php
+END
+handle_character.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/80/htdocs/comicland/handle_character.php
+END
+favoriting.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/80/htdocs/comicland/favoriting.php
+END
+login.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/80/htdocs/comicland/login.php
+END
+logout.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/80/htdocs/comicland/logout.php
+END
+authenticate_user.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/80/htdocs/comicland/authenticate_user.php
+END
+comics.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/80/htdocs/comicland/comics.php
+END
+characters.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/80/htdocs/comicland/characters.php
+END
+create_review.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/80/htdocs/comicland/create_review.php
+END
+create_comment.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/80/htdocs/comicland/create_comment.php
+END
+admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/80/htdocs/comicland/admin.php
+END
+home.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/cse330_fl12/svn/Fernandes-426968/!svn/ver/80/htdocs/comicland/home.php
+END
