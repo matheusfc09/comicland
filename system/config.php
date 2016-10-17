@@ -1,7 +1,7 @@
 <?php
 
 	if (!defined('ROOT_PATH'))
-		define('ROOT_PATH', '/~fc/comicland/');
+		define('ROOT_PATH', '/comicland/');
 	if (!defined('SITE_TITLE'))
 		define('SITE_TITLE', 'Comic Land');
 	if (!defined('SITE_NAME'))
