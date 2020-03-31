@@ -1,6 +1,6 @@
 <?php
 
-	$mysqli = new mysqli('localhost', 'root', '', 'comic_land');
+	$mysqli = new mysqli('remotemysql.com', 'QOSYrmTm62', 'KnraZQDXZm', 'QOSYrmTm62', 3306);
 
 	if($mysqli->connect_errno) {
 		$_SESSION['error'] = "Connection with database failed!";
