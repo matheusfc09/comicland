@@ -11,7 +11,7 @@
 		$stmt = $mysqli->prepare("SELECT c.series, c.title, c.issue, c.publisher, c.summary, c.img_name, AVG(cr.rate) ".
 														 "FROM comics AS c JOIN comic_ratings AS cr ON c.id = cr.comic_id WHERE c.id = ?");
 		if(!$stmt) {
-			$_SESSION['error'] = "Query failed! (".$stmt->error.")";
+			$_SESSION['error'] = "Query failed! (".mysqli_stmt_errno().")";
 			header("Location: ".ROOT_PATH."error.php");
 			exit;
 		}
