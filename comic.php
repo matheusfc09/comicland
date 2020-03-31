@@ -7,16 +7,10 @@
 	if(isset($_GET['id'])) {
 	
 		$id = $_GET['id'];
-
-		$stmt = $mysqli->prepare("SELECT name, gender, description, powers, img_name FROM characters WHERE id = ?");
-		if(!$stmt) {
-			$_SESSION['error'] = "FIRST Query failed!";
-			header("Location: ".ROOT_PATH."error.php");
-			exit;
-		}
 		
 		$stmt = $mysqli->prepare("SELECT c.series, c.title, c.issue, c.publisher, c.summary, c.img_name, AVG(cr.rate) FROM comics AS c JOIN comic_ratings AS cr ON c.id = cr.comic_id WHERE c.id = ?");
 		if(!$stmt) {
+			die('prepare() failed: ' . htmlspecialchars($mysqli->error));
 			$_SESSION['error'] = "Query failed!";
 			header("Location: ".ROOT_PATH."error.php");
 			exit;
