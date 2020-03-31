@@ -10,7 +10,6 @@
 		
 		$stmt = $mysqli->prepare("SELECT c.series, c.title, c.issue, c.publisher, c.summary, c.img_name, AVG(cr.rate) FROM comics AS c LEFT JOIN comic_ratings AS cr ON c.id = cr.comic_id WHERE c.id = ?");
 		if(!$stmt) {
-			die('prepare() failed: ' . htmlspecialchars($mysqli->error));
 			$_SESSION['error'] = "Query failed!";
 			header("Location: ".ROOT_PATH."error.php");
 			exit;
