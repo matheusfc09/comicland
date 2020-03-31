@@ -7,5 +7,6 @@
 		header("Location: error.php");
 		exit;
 	}
+        $mysqli->query("SET SESSION sql_mode=''");
 
 ?>
